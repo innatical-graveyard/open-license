@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# innatical-open-license
+A copy of the license should be placed in the root directory of your project or repository with the filename LICENSE
 
-You can use the [editor on GitHub](https://github.com/innatical/innatical-open-license/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Innatical Open License
+Version 1.0
+Copyright © 2022 Innatical, LLC. <https://innatical.com/>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Everyone may redistribute verbatim copies of this document.
+Changing the text of the license is not permitted.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/innatical/innatical-open-license/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Preamble
+The Innatical Open License is a license for digital assets to provide
+GNU General Public License compatibility with fewer restrictions.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Terms and Conditions
+
+1. Redistribution
+Redistributions of the licensed work must be distributed under the
+Innatical Open License. All copies of this work must include the license in
+human readable form.
+
+2. Access to Work
+2.1 This work must be provided in source format over the internet.
+The work must be freely accessible and cannot be available solely by request.
+2.2 This work must allow derivatives or forks to be made easily and freely.
+
+3. Non-Fungible Tokens
+This work may not be redistributed as a Non-Fungible Token without the express
+written consent of the copyright owner.
+
+4. Response to Violation
+The copyright owner reserves all rights to legal action in response to license
+violations.
+
+5. Change of License
+The copyright holder must receive the express written permission of all
+contributors to the work to change the work's license.
+
+6. Warranty
+This work is provided “AS IS”, the authors ARE NOT LIABLE for any damage to
+systems, networks, et al. By using this work, you agree to waive liability of
+the authors to any damages or loss.
+```
