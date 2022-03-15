@@ -12,7 +12,6 @@ Copyright © 2022 Innatical, LLC. <https://innatical.com/>
 ## Preamble
 The Innatical Open License is a license for digital assets intending to provide freedom of product and protection of author's rights.
 
-
 ## Terms and Conditions
 
 ### 1. Redistribution
